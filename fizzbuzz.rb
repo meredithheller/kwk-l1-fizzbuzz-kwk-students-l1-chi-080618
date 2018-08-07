@@ -21,5 +21,7 @@ def integer(x)
    puts "FizzBuzz"
   else
    puts "none"
+  end
 end
-end
+
+integer(6)
