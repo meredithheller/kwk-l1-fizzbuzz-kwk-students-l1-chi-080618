@@ -3,3 +3,4 @@ if x/3 = whole number
 elsif x/5 = whole number
   puts "buzz"
 elsif x/15 = whole number
+  puts ""
