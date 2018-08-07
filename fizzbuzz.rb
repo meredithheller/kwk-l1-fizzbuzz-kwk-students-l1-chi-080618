@@ -22,4 +22,4 @@ def integer(x)
   else
    puts "none"
 end
-end 
+end
