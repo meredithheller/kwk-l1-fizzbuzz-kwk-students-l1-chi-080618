@@ -24,4 +24,4 @@ def integer(x)
   end
 end
 
-integer(15)
+integer(21)
