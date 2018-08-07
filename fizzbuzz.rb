@@ -1,6 +1,7 @@
-if x/3 = whole number
-  puts "fizz"
-elsif x/5 = whole number
-  puts "buzz"
-elsif x/15 = whole number
-  puts ""
+if x % 3 = 0
+  puts "Fizz"
+elsif x % 5 = 0
+  puts "Buzz"
+elsif x % 15 = 0
+  puts "FizzBuzz"
+end
