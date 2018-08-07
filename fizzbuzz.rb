@@ -1,3 +1,6 @@
+puts "What is your number?"
+ x = gets.chomp
+
 if x % 3 = 0
   puts "Fizz"
 elsif x % 5 = 0
