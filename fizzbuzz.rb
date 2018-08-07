@@ -12,7 +12,7 @@ else
   puts "none"
 end
 
-def x
+def integer(x)
   if x % 3 == 0
   puts "Fizz"
 elsif x % 5 == 0
